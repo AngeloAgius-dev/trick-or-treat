@@ -1,4 +1,4 @@
-/*const btn = document.querySelector("button")
+const btn = document.querySelector("button")
 const p = document.querySelector("p")
 let click = 0
 
@@ -8,4 +8,4 @@ btn.addEventListener("click", () => {
 
     console.log(click)
     p.innerHTML = click
-})*/
+})
